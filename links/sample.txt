@@ -1,0 +1,14 @@
+# Sample road links (undirected). Each line is "id_a id_b".
+# Lines like this connect the first row of the grid into a path.
+1 2
+2 3
+3 4
+4 5
+5 6
+6 7
+7 8
+8 9
+9 10
+# A couple of links that leave the path.
+10 110
+1 101
